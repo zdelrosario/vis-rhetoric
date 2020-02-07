@@ -21,10 +21,12 @@ Figure 1 illustrates the *data-usage pipeline*; the full lifecycle of wrangling,
 understanding, and communicating data. This is the framework for the entire
 class.
 
-<figure> <img src="../fig/data-usage-pipeline.png" alt="Data Usage Pipeline";
-  style="width:1000px;"> <figcaption>Figure 1. The data-usage pipeline. Inspired
+<figure>
+  <img src="../fig/data-usage-pipeline.png" style="width:1000px;">
+  <figcaption>Figure 1. The data-usage pipeline. Inspired
   by <a href="https://r4ds.had.co.nz/introduction.html">Grolemund and
-  Wickham</a>.</figcaption> </figure>
+  Wickham</a>.</figcaption>
+</figure>
 
 | ----------- | --------- | ---------------------------------------- |
 | Wrangle     | Import    | Import data into programming environment |
