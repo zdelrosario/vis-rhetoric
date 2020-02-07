@@ -1,5 +1,5 @@
 ---
-title: "Day 1: Principles of Visualization"
+title: "Day 1: Introduction"
 teaching: 20
 exercises: 25
 questions:
@@ -17,5 +17,23 @@ keypoints:
 - "First we find the true story in the data, and then we communicate it persuasively."
 ---
 
+Figure 1 illustrates the *data-usage pipeline*; the full lifecycle of wrangling,
+understanding, and communicating data. This is the framework for the entire
+class.
+
+<figure> <img src="../fig/data-usage-pipeline.png" alt="Data Usage Pipeline";
+  style="width:1000px;"> <figcaption>Figure 1. The data-usage pipeline. Inspired
+  by <a href="https://r4ds.had.co.nz/introduction.html">Grolemund and
+  Wickham</a>.</figcaption> </figure>
+
+| ----------- | --------- | ---------------------------------------- |
+| Wrangle     | Import    | Import data into programming environment |
+|             | Tidy      | Reshape the data into a usable format    |
+| Understand  | Transform | Perform numerical operations on data     |
+|             | Visualize | Create graphical displays of data        |
+|             | Model     | Construct a statistical model of data    |
+| Communicate | Target    | Determine audience and message           |
+|             | Empathize | Identify audience perspective and align  |
+|             | Evaluate  | Deliver the message and gather feedback  |
 
 {% include links.md %}
