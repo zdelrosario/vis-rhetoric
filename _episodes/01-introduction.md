@@ -1,8 +1,9 @@
 ---
 title: "Day 1: Introduction"
-teaching: 20
-exercises: 25
+teaching: 25
+exercises: 20
 questions:
+- "What's the big picture?"
 - "How do visualization and rhetoric relate?"
 - "How do we productively criticise graphs?"
 - "How do we construct an argument with data?"
@@ -12,6 +13,7 @@ objectives:
 - "Identify rungs on the visual hierarchy"
 - "Use visualization principles for productive criticism"
 keypoints:
+- "The data-usage pipeline organizes our course content."
 - "Data visualization can engage logos, ethos, and sometimes pathos."
 - "The rungs of the visual hierarchy give us language for productive criticism."
 - "First we find the true story in the data, and then we communicate it persuasively."
