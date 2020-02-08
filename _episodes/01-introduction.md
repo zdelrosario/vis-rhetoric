@@ -40,4 +40,14 @@ class.
 |             | Empathize | Identify audience perspective and align  |
 |             | Evaluate  | Deliver the message and gather feedback  |
 
+## Principles
+
+- Visual
+  - Use higher rungs on *the visual hierarchy* for numerical variables
+  - **But**, always design for your intended purpose
+- Rhetorical
+  - Providing evidence for an argument improves your credibility (ethos)
+  - Providing evidence for an argument is a key part of logic (logos)
+  - *Consider* using an emotional appeal (pathos)
+
 {% include links.md %}
