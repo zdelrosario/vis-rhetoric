@@ -63,9 +63,42 @@ different bases:
 | Spotlight | Completion | 5% |
 | Deep Dive: Draft | Rubric | 5% |
 | Deep Dive: Peer review | Rubric | 5% |
-| Deep Dive: Presentation | Rubric | 10% |
-| Deep Dive: Feedback* | Rubric | 5% |
+| Deep Dive: Presentation | Rubric | 5% |
+| Deep Dive: Final report | Rubric | 10% |
 
-Yes! You will be *graded* on the *quality of feedback* you give other students!
+**Daily Assignments** are assigned (and due!) daily. They will be graded for
+completion. The literature on education indicates that distributed *e.g. daily)
+practice aids [retention](http://www.jamesmlang.com/p/small-teaching.html) and
+[transfer](https://www.hup.harvard.edu/catalog.php?isbn=9780674660021) of
+knowledge, so that's what we're going to do! These are short, so you'll only
+need to spend about 15 min a day on these.
+
+**Challenges** are longer assignments that will have you analyze **real** data
+in order to extract insights. These will be graded on a rubric. Completing these
+will take up to an hour each.
+
+**Spotlights** will begin three weeks into the class, and will consist of a data
+analysis and brief presentation to the class. You will do *one* of these in the
+semester, and you will be graded based on completion. This will be graded for
+completion. You will have to choose your own data for this small investigation;
+you're free to find a dataset that interests you, but you can also choose one
+from [tidytuesday](https://github.com/rfordatascience/tidytuesday).
+
+The **Deep Dive** is your final course project, and will make up a large chunk
+of your grade. It is broken into multiple parts:
+
+- The Deep Dive itself is a full execution of the *data-usage pipeline*. You
+  must identify a dataset of interest, explore and understand it, then construct
+  and present an argument to the class.
+- The project **Draft** will be due in week 8; this will consist of a
+  reproducible data analysis, as well as a sketch of your argument.
+- You will be assigned to read two of your classmates drafts in a **Peer
+  review** assignment. You will be graded on the quality of the feedback you
+  provide!
+- The **Presentation** will be a (relatively) low-stakes communication of your
+  report to the full class. This will be graded on a rubric, and will provide
+  you with useful feedback as you prepare for...
+- The **Final report** will be your last opportunity to refine your data
+  analysis and argument. This will be graded on a rubric.
 
 {% include links.md %}
