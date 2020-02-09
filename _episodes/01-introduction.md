@@ -67,7 +67,7 @@ different bases:
 | Deep Dive: Final report | Rubric | 10% |
 
 **Daily Assignments** are assigned (and due!) daily. They will be graded for
-completion. The literature on education indicates that distributed *e.g. daily)
+completion. The literature on education indicates that distributed (e.g. daily)
 practice aids [retention](http://www.jamesmlang.com/p/small-teaching.html) and
 [transfer](https://www.hup.harvard.edu/catalog.php?isbn=9780674660021) of
 knowledge, so that's what we're going to do! These are short, so you'll only
