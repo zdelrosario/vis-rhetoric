@@ -101,4 +101,12 @@ of your grade. It is broken into multiple parts:
 - The **Final report** will be your last opportunity to refine your data
   analysis and argument. This will be graded on a rubric.
 
+## Grading
+The primary text for this class is the freely-available [R for Data
+Science](https://r4ds.had.co.nz/) by Grolemund and Wickham. Both authors are
+employees of [Rstudio](https://rstudio.com/), the public B-corp that maintains
+and markets the [RStudio IDE](https://rstudio.com/products/rstudio/) and the
+open-source [Tidyverse](https://www.tidyverse.org/) software, both of which
+we'll use in this class.
+
 {% include links.md %}
