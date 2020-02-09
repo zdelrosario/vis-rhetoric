@@ -79,10 +79,10 @@ will take up to an hour each.
 
 **Spotlights** will begin three weeks into the class, and will consist of a data
 analysis and brief presentation to the class. You will do *one* of these in the
-semester, and you will be graded based on completion. This will be graded for
-completion. You will have to choose your own data for this small investigation;
-you're free to find a dataset that interests you, but you can also choose one
-from [tidytuesday](https://github.com/rfordatascience/tidytuesday).
+semester: This will be graded for completion. You will have to choose your own
+data for this small investigation; you're free to find a dataset that interests
+you, but you can also choose one from
+[tidytuesday](https://github.com/rfordatascience/tidytuesday).
 
 The **Deep Dive** is your final course project, and will make up a large chunk
 of your grade. It is broken into multiple parts:
