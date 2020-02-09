@@ -101,7 +101,7 @@ of your grade. It is broken into multiple parts:
 - The **Final report** will be your last opportunity to refine your data
   analysis and argument. This will be graded on a rubric.
 
-## Grading
+## Textbook and Readings
 The primary text for this class is the freely-available [R for Data
 Science](https://r4ds.had.co.nz/) by Grolemund and Wickham. Both authors are
 employees of [Rstudio](https://rstudio.com/), the public B-corp that maintains
