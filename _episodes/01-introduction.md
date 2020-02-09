@@ -19,6 +19,7 @@ keypoints:
 - "First we find the true story in the data, and then we communicate it persuasively."
 ---
 
+## The Big Picture
 Figure 1 illustrates the *data-usage pipeline*; the full lifecycle of wrangling,
 understanding, and communicating data. This is the framework for the entire
 class.
@@ -41,6 +42,7 @@ class.
 |             | Evaluate  | Deliver the message and gather feedback  |
 
 ## Principles
+In class, we covered a few introductory principles:
 
 - Visual
   - Use higher rungs on *the visual hierarchy* for numerical variables
@@ -49,5 +51,21 @@ class.
   - Providing evidence for an argument improves your credibility (ethos)
   - Providing evidence for an argument is a key part of logic (logos)
   - *Consider* using an emotional appeal (pathos)
+
+## Grading
+There are several assignment types in this class, which will be graded on
+different bases:
+
+| Assignment Type | Grading Basis | Percentage |
+| --- | --- | --- |
+| Daily | Completion | 60% |
+| Challenge | Rubric | 10% |
+| Spotlight | Completion | 5% |
+| Deep Dive: Draft | Rubric | 5% |
+| Deep Dive: Peer review | Rubric | 5% |
+| Deep Dive: Presentation | Rubric | 10% |
+| Deep Dive: Feedback* | Rubric | 5% |
+
+Yes! You will be *graded* on the *quality of feedback* you give other students!
 
 {% include links.md %}
