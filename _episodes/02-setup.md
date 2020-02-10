@@ -1,7 +1,7 @@
 ---
 title: "Day 2: Setup"
-teaching: 25
-exercises: 20
+teaching: 0
+exercises: 60
 questions:
 - "What tools will we use?"
 - "How will we submit assignments?"

@@ -1,7 +1,7 @@
 ---
 title: "Day 1: Introduction"
-teaching: 25
-exercises: 20
+teaching: 60
+exercises: 0
 questions:
 - "What's the big picture?"
 - "How do visualization and rhetoric relate?"
