@@ -1,0 +1,60 @@
+* Prerequisites
+-
+
+* Topics
+- Exploratory data analysis
+  + Numerous scaffolded case studies with real datasets
+  + Several student-selected datasets
+  + Final capstone project
+
+- Functional programming in R (Tidyverse)
+  + dplyr:
+    - loading and tidying data (ETL)
+      + Dealing with common annoying data layouts
+    - grouping and aggregating data
+    - relational data (joins)
+    - automatic generation of SQL code; intro to SQL
+  + workhorse operations (stringr, forcats, lubridate, googlesheets4, rvest):
+    - parsing string data with regular expressions to form numerical data
+    - coding and analyzing categorical data
+    - parsing datetime strings to form numerical data
+    - node identification and webscraping
+    - collecting data with googlesheets
+  + sf:
+    - geospatial data visualization
+  + purrr:
+    - vector operations
+    - predicate functions
+  + ggplot:
+    - principles of visualization; human-perception results that guide visual
+      design
+    - visualizing single variables (boxplots, histograms, etc.)
+    - visualizing relationships (scatterplots, regression/LOESS, hexbins)
+    - aesthetic controls: scales, (colorblind-friendly) color schemes
+  + Modeling basics
+    - Unsupervised approaches (dimension reduction, clustering)
+    - Supervised approaches (OLS, GLM, maybe random forests)
+    - (Focus on software tools and use-cases; theory left to other courses)
+
+- Industry-ready software & environment skills
+  + Version control (Git & GitHub)
+  + Environment control (Docker)
+  + Rmarkdown:
+    - Reproducible results
+  + Shiny:
+    - Interactive dashboards
+
+- Rhetoric
+  + The modes of persuasion
+    - Ethos
+    - Pathos
+    - Logos
+  + The principles of influence
+    - Reciprocity
+    - Scarcity
+    - Authority
+    - Consistency
+    - Liking
+    - Consensus
+  + Lots of practice communicating results (oral and written)
+  + Case studies connecting data analysis to communicating results
