@@ -1,5 +1,5 @@
 ---
-title: "Exercise 1: Visual Hierarchy"
+title: "Exercise 1: Image Ranking"
 ---
 
 ## Overview
