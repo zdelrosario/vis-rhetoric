@@ -9,7 +9,7 @@ objectives:
 
 ## Overview
 
-You should have been organized into groups of four in breakout rooms.
+You should be organized into groups of four in breakout rooms.
 
 Below there are **two** images of **the same** dataset. All images show exactly
 the same information, but in different ways. The purpose of this exercise is 1.
