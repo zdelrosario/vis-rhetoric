@@ -1,5 +1,9 @@
 ---
 title: "Exercise 1: Image Ranking"
+teaching: 0
+exercises: 5
+objectives:
+- Learn the rungs on the visual hierarchy
 ---
 
 ## Overview
