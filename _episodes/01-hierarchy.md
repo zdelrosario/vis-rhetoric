@@ -3,19 +3,29 @@ title: "Exercise 1: Visual Hierarchy"
 ---
 
 ## An Exercise
-<!-- -------------------------------------------------- -->
-
-You should have been organized into pairs in breakout rooms. With your partner,
-look at the images below and answer the following questions:
 
 ---
-### Q1: Which is larger? The `Count` of `wagons` with `fwd drive`, OR the `Count` of `wagons` with `rwd drive`? By how much?
----
-### Q2: Rank the six visualizations in terms of how well they help you answer Q2. Rank the *most helpful* as `1`, and the *least helpful* as `6`.
----
 
-### Images to Rank
-<!-- ------------------------- -->
+You should have been organized into pairs in breakout rooms.
+
+With your partner, look at the images below and answer the following questions:
+
+
+### 1: Which is larger?
+
+|          |                     |
+|----------|---------------------|
+| Count of | `wagons` with `fwd` |
+|          | OR                  |
+| Count of | `wagons` with `rwd` |
+
+### 2: Rank the six visualizations in terms of how well they help you answer Q1. Rank the *most helpful* as `1`, and the *least helpful* as `6`.
+
+### 3: **Submit your ranks**
+
+## Images to Rank
+
+---
 
 __NON__
 
@@ -40,3 +50,7 @@ __COM__
 __ANG__
 
 <img src="../fig/04_angle.png" style="width:400px;height:400px;">
+
+### Submit your ranks
+
+When you've ranked all six, submit them here.
