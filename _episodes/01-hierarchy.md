@@ -29,7 +29,7 @@ instructions:
 
 ### 2: Rank the six visualizations in terms of how well they help you answer Q1. Rank the *most helpful* as `1`, and the *least helpful* as `6`.
 
-### 3: **Submit your ranks**
+### 3: **Submit your ranks** [here](https://forms.gle/i4jDkGZvAXeWiJX67)
 
 ## Images to Rank
 
