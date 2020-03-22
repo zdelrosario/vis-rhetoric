@@ -8,7 +8,7 @@ objectives:
 
 ## Overview
 
-You should have been organized into pairs in breakout rooms.
+You should be organized into pairs in breakout rooms.
 
 Below there are **six** images of **the same** dataset. All images show exactly
 the same information, but in different ways. The purpose of this exercise is to
@@ -19,7 +19,7 @@ instructions:
 
 ## Instructions
 
-### 1: Determine "Which is larger?"
+### 1: Determine "Which is larger, and by how much?"
 
 |          |                     |
 |----------|---------------------|
@@ -33,30 +33,31 @@ instructions:
 
 ## Images to Rank
 
-__A. NON__
+__A) NON__
 
 <img src="../fig/02_nonaligned_scale.png" style="width:400px;height:400px;">
 
-__B. PIR2__
+__B) PIR2__
 
 <img src="../fig/05_area.png" style="width:400px;height:400px;">
 
-__C. SAT__
+__C) SAT__
 
 <img src="../fig/06_sat.png" style="width:400px;height:400px;">
 
-__D. LEN__
+__D) LEN__
 
 <img src="../fig/03_length.png" style="width:400px;height:400px;">
 
-__E. COM__
+__E) COM__
 
 <img src="../fig/01_common_scale.png" style="width:400px;height:400px;">
 
-__F. ANG__
+__F) ANG__
 
 <img src="../fig/04_angle.png" style="width:400px;height:400px;">
 
 ## Submit your ranks
 
-When you've ranked all six, submit them here.
+When you've ranked all six, submit them
+[here](https://forms.gle/i4jDkGZvAXeWiJX67).
